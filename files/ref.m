@@ -5,7 +5,7 @@ function [ result, x] = ref(sample, fs)
 %     %%
 %      centroid = specCentroid(sample, fs);
 %      
-%      if(centroid > 1.1021*10*10*10*10)
+%      if(centroid > 1.1021*10^4)
 %          result = result + 87.5;
 %      else
 %          result = result - 45;
