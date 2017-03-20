@@ -7,7 +7,7 @@ This program detects whether a sound sample is speech or music.
 - - zeroCross.m judges based on the frequency the signal crosses 0
 - - rootms.m is the root mean squared
 - - pauseDetect.m counts the amount of time a pause is detected
-- - spectralCentroid.m was created but not used
+- - specCentroid.m was created but not used
 
 
 
